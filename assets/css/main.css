@@ -2434,7 +2434,7 @@
 			background: rgba(52, 27, 43, 0.5);
 			color: #fff;
 			display: inline-block;
-			opacity: 0;
+			opacity: 1;
 			padding: 3em;
 			text-align: center;
 		}
